@@ -6,21 +6,19 @@ import com.retailerapp.model.CustomerTransaction;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
-import java.util.stream.Collectors;
 
 @RestController
 @CrossOrigin(origins="*", maxAge=3600)
 @Slf4j
 public class RetailerAppController {
 
-    @GetMapping("/getCustomerRewardPoints/{customerName}")
-    public List<CustomerTransaction> getCustomerRewardPoints(@PathVariable String customerName) {
+    @GetMapping("/getAllTransactions")
+    public List<CustomerTransaction> getAllTransactions() {
         ObjectMapper mapper = new ObjectMapper();
         TypeReference<List<CustomerTransaction>> typeReference = new TypeReference<>() {};
         InputStream inputStream = TypeReference.class.getResourceAsStream("/json/customerTransactions.json");
@@ -30,8 +28,7 @@ public class RetailerAppController {
             customerTransactionList = mapper.readValue(inputStream, typeReference);
 
             customerTransactionList = customerTransactionList.stream().
-                    filter(element -> element.getCustomerName().equalsIgnoreCase(customerName))
-                    .map(element -> {
+                    map(element -> {
                         int price = element.getPrice();
                         int rewardPoints = 0;
 

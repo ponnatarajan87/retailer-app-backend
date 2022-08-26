@@ -2,80 +2,60 @@
     {
         "customerName": "Justice Simpson",
         "transactionDate": "25/May/2022",
-        "transactionId": 1,
-        "item": "Bamboo Watch",
         "price": 60,
         "rewardPoints": 0
     },
     {
         "customerName": "Justice Simpson",
         "transactionDate": "2/Jun/2022",
-        "transactionId": 2,
-        "item": "Blue T-Shirt",
         "price": 160,
         "rewardPoints": 0
     },
     {
         "customerName": "Justice Simpson",
         "transactionDate": "15/Jul/2022",
-        "transactionId": 3,
-        "item": "Bracelet",
         "price": 200,
         "rewardPoints": 0
     },
     {
         "customerName": "Robin Willis",
         "transactionDate": "22/May/2022",
-        "transactionId": 4,
-        "item": "Brown Purse",
         "price": 80,
         "rewardPoints": 0
     },
     {
         "customerName": "Robin Willis",
         "transactionDate": "12/Jun/2022",
-        "transactionId": 5,
-        "item": "Gaming Set",
         "price": 100,
         "rewardPoints": 0
     },
     {
         "customerName": "Robin Willis",
         "transactionDate": "10/Jul/2022",
-        "transactionId": 6,
-        "item": "Laptop",
         "price": 800,
         "rewardPoints": 0
     },
     {
         "customerName": "Kerry Koch",
         "transactionDate": "6/May/2022",
-        "transactionId": 7,
-        "item": "Pen",
         "price": 20,
         "rewardPoints": 0
     },
     {
         "customerName": "Kerry Koch",
         "transactionDate": "22/Jun/2022",
-        "transactionId": 8,
-        "item": "Notebook",
         "price": 60,
         "rewardPoints": 0
     },
     {
         "customerName": "Kerry Koch",
         "transactionDate": "13/Jul/2022",
-        "transactionId": 9,
-        "item": "Mobile Phone",
         "price": 400,
         "rewardPoints": 0
     },
     {
         "customerName": "Kerry Koch",
         "transactionDate": "20/Jul/2022",
-        "transactionId": 10,
-        "item": "Headset",
         "price": 500,
         "rewardPoints": 0
     }
