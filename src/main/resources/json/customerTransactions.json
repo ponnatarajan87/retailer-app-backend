@@ -1,8 +1,14 @@
 [
     {
         "customerName": "Justice Simpson",
-        "transactionDate": "25/May/2022",
+        "transactionDate": "5/May/2022",
         "price": 60,
+        "rewardPoints": 0
+    },
+    {
+        "customerName": "Justice Simpson",
+        "transactionDate": "25/May/2022",
+        "price": 80,
         "rewardPoints": 0
     },
     {
@@ -21,6 +27,12 @@
         "customerName": "Robin Willis",
         "transactionDate": "22/May/2022",
         "price": 80,
+        "rewardPoints": 0
+    },
+    {
+        "customerName": "Robin Willis",
+        "transactionDate": "2/Jun/2022",
+        "price": 90,
         "rewardPoints": 0
     },
     {
@@ -57,6 +69,12 @@
         "customerName": "Kerry Koch",
         "transactionDate": "20/Jul/2022",
         "price": 500,
+        "rewardPoints": 0
+    },
+    {
+        "customerName": "Kerry Koch",
+        "transactionDate": "23/Jul/2022",
+        "price": 600,
         "rewardPoints": 0
     }
 ]
