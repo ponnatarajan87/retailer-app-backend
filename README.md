@@ -1,7 +1,7 @@
 # Retailer App (Backend)
 
 ### Description
-A program to calculate the reward points earned for each customer per month and total based on their last 3 months transactions.
+A program to calculate the reward points earned for each customer per month and total based on their 3 months transactions. The backend logic is developed using Spring Boot with Rest API.
 
 ![image](https://user-images.githubusercontent.com/112087209/187037885-d6551c8a-cbef-41d2-a2ec-579ed0e779fd.png)
 
