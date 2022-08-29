@@ -21,7 +21,7 @@ A program to calculate the reward points earned for each customer per month and 
 #### Junit Test Case and Test Coverage
 ![image](https://user-images.githubusercontent.com/112087209/187182347-a58e181b-5cb3-4102-b7ff-aacc2768f0eb.png)
 
-
+#### Data Model Design
 ![image](https://user-images.githubusercontent.com/112087209/187181945-b64f4463-1e15-40d2-86ed-b18e4b20c566.png)
 
 
