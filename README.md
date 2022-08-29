@@ -13,3 +13,5 @@ A program to calculate the reward points earned for each customer per month and 
 ![image](https://user-images.githubusercontent.com/112087209/187043911-e1d4d989-9114-4d49-b7e6-f1aa3f140f8d.png)
 
 ![image](https://user-images.githubusercontent.com/112087209/187180894-49bb88db-0967-435b-80f1-d647b1545655.png)
+
+![image](https://user-images.githubusercontent.com/112087209/187181238-b3dbe887-7064-48e9-80a6-1e0d6774032c.png)
