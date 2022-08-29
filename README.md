@@ -18,6 +18,9 @@ A program to calculate the reward points earned for each customer per month and 
 
 ![image](https://user-images.githubusercontent.com/112087209/187037920-479f8106-d55e-4541-b44c-870da9f19b48.png)
 
+#### Invoke the API using Swagger
+![image](https://user-images.githubusercontent.com/112087209/187190149-728f702f-b62b-4c32-9b6e-e6384a449581.png)
+
 #### Invoke the API using Postman client
 ![image](https://user-images.githubusercontent.com/112087209/187189786-92e2e41c-c7af-487e-b1e8-ac4c09396c3c.png)
 
