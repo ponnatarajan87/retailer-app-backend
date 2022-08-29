@@ -27,6 +27,7 @@ A program to calculate the reward points earned for each customer per month and 
 #### Dataset in a table format that shows the customer list, transaction list, monthly total per customer, and 3 months summary
 ![image](https://user-images.githubusercontent.com/112087209/187033458-88bff196-31c3-4627-bbea-c98a42ed607b.png)
 
+#### A Health Check Endpoint to check whether the service is running or not using Actuator
 ![image](https://user-images.githubusercontent.com/112087209/187033519-39fc5a87-7f53-478d-9bb0-1622cd8cc94d.png)
 
 ![image](https://user-images.githubusercontent.com/112087209/187043911-e1d4d989-9114-4d49-b7e6-f1aa3f140f8d.png)
