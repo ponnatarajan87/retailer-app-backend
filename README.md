@@ -42,3 +42,11 @@ A program to calculate the reward points earned for each customer per month and 
 ![image](https://user-images.githubusercontent.com/112087209/187180894-49bb88db-0967-435b-80f1-d647b1545655.png)
 
 ![image](https://user-images.githubusercontent.com/112087209/187181238-b3dbe887-7064-48e9-80a6-1e0d6774032c.png)
+
+#### Steps to run the dockerized API
+Step 1:- run this command, docker run -it -p 8080:8080 malaipo/retailer-app to run the docker image
+
+![image](https://user-images.githubusercontent.com/112087209/187239912-8b5ca530-375c-4e54-ab19-f8e2e6b2198d.png)
+
+![image](https://user-images.githubusercontent.com/112087209/187241218-faced9f2-6ac1-487f-8629-7e17ef8d7cfb.png)
+
